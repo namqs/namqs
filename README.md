@@ -1,6 +1,6 @@
 ### Oii, eu sou a Natalie ✨
 No momento eu estou realizando estudos de Html, Css, Javascript, C e Python.
-<hr>
+<br>
 Sinta-se à vontade pra dar uma olhada! 
 
 <div align="center">
