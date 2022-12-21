@@ -1,5 +1,6 @@
 ### Oii, eu sou a Natalie ✨
-No momento eu estou realizando estudos de Html, Css e C, sinta-se à vontade pra dar uma olhada! 
+No momento eu estou realizando estudos de Html, Css, Javascript, C e Python.
+Sinta-se à vontade pra dar uma olhada! 
 
 <div align="center">
   <a href="https://github.com/namqs">
