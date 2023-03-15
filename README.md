@@ -1,5 +1,6 @@
 ### Oii, eu sou a Natalie ✨
-No momento eu estou realizando estudos de Html, Css, Javascript, C e Python.
+Carioca, 19 anos e programadora.
+No momento eu estou realizando estudos de Javascript, C e Python.
 <br>
 Sinta-se à vontade pra dar uma olhada! 
 
