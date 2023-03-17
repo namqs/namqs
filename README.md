@@ -1,5 +1,6 @@
 ### Oii, eu sou a Natalie ✨
 Carioca, 19 anos e programadora.
+<br>
 No momento eu estou realizando estudos de Javascript, C e Python.
 <br>
 Sinta-se à vontade pra dar uma olhada! 
