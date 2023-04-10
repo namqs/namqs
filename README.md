@@ -1,10 +1,11 @@
-### Oii, eu sou a Natalie ✨👩‍💻🤓
-Carioca, 19 anos e programadora.
-<br>
-No momento eu estou realizando estudos de Javascript, PHP, C e Python.
-<br>
-Sinta-se à vontade pra dar uma olhada! 
+<h3 align="center">Oii, eu sou a Natalie ✨👩‍💻🤓 </h3>
+<p align="center">Carioca, 19 anos e programadora.</p>
+<p align="center">Bem-vindo ao meu perfil, sinta-se à vontade pra dar uma olhada!</p>
+<p align="center">No momento eu estou realizando estudos de Javascript, PHP, C e Python. </p>
 
+##
+
+<br>
 <div align="center">
   <a href="https://github.com/namqs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=namqs&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
