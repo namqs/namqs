@@ -38,7 +38,7 @@
           
 </div>
 <br>
-   <p align="center">Bons códigos à todos!</p>
+   <p align="center">Bons códigos a todos!</p>
    <p align="center">:)</p>
  
 </div>
