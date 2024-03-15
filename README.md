@@ -1,7 +1,7 @@
 <h3 align="center">Oii, eu sou a Natalie ✨👩‍💻🤓 </h3>
 <p align="center">Carioca, 20 anos e programadora.</p>
 <p align="center">Bem-vindo ao meu perfil, sinta-se à vontade pra dar uma olhada!</p>
-<p align="center">No momento eu estou realizando estudos de Javascript, PHP, C e Python. </p>
+<p align="center">No momento eu estou realizando estudos de Java, Python e IAs. </p>
 
 ##
 
