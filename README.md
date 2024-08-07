@@ -1,7 +1,7 @@
 <h3 align="center">Oii, eu sou a Natalie ✨👩‍💻🤓 </h3>
 <p align="center">Carioca, 20 anos e programadora.</p>
 <p align="center">Bem-vindo ao meu perfil, sinta-se à vontade pra dar uma olhada!</p>
-<p align="center">No momento eu estou realizando estudos de Java, análise de dados e IAs. </p>
+<p align="center">No momento eu estou realizando estudos de ciência de dados, python e IAs. </p>
 <div style="display: inline_block" align="center">
 <p align="center">Atuo em Iniciação Científica na Fundação Oswaldo Cruz, no ramo de biologia computacional 🔬💻 :) </p> 
   <img height="80em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyWrpXK9T-kt6u5svVDlxslzxw5wwZUb0PGRDzv7dGNN4HVkABM6l3AoQUi8uwbUIfJj4&usqp=CAU"/>
